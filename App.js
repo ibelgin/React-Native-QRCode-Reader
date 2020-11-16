@@ -23,7 +23,6 @@ export default class App extends React.Component{
           <TouchableOpacity>
             <Text style={{fontSize:21,color:'rgb(0,122,255)'}}> Scan QR Code</Text>
           </TouchableOpacity>
-
         }/>
     )
   }
